@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "compileCommands": "${workspaceFolder}/parte_1b_a_yolo_benchmark/build/compile_commands.json",
+            "includePath": [
+                "${workspaceFolder}/parte_1b_a_yolo_benchmark/include",
+                "/home/user/librerias/opencv_final/include/opencv4"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

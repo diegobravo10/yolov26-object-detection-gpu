@@ -1,0 +1,7 @@
+===== RESULTADOS PARTE 1C =====
+Frames analizados: 518
+Tiempo promedio CPU: 1.15771 ms/frame
+Tiempo promedio GPU: 6.37963 ms/frame
+FPS CPU: 863.773
+FPS GPU: 156.749
+Aceleracion GPU vs CPU: 0.18147x

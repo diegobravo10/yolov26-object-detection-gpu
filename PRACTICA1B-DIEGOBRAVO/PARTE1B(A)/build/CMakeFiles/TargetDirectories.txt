@@ -1,0 +1,7 @@
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/yolo_benchmark.dir
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/edit_cache.dir
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/rebuild_cache.dir
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/list_install_components.dir
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/install.dir
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/install/local.dir
+/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build/CMakeFiles/install/strip.dir

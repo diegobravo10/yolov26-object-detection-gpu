@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build",
+  "command": "/usr/bin/c++ -DCUDA_TOOLKIT_FOUND -I/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/include -isystem /home/user/librerias/opencv_final/include/opencv4 -O3 -DNDEBUG -std=c++17 -O3 -march=native -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/yolo_benchmark.dir/src/main.cpp.o -c /media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/main.cpp",
+  "file": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/main.cpp",
+  "output": "CMakeFiles/yolo_benchmark.dir/src/main.cpp.o"
+},
+{
+  "directory": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build",
+  "command": "/usr/bin/c++ -DCUDA_TOOLKIT_FOUND -I/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/include -isystem /home/user/librerias/opencv_final/include/opencv4 -O3 -DNDEBUG -std=c++17 -O3 -march=native -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/yolo_benchmark.dir/src/YoloDetector.cpp.o -c /media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/YoloDetector.cpp",
+  "file": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/YoloDetector.cpp",
+  "output": "CMakeFiles/yolo_benchmark.dir/src/YoloDetector.cpp.o"
+},
+{
+  "directory": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build",
+  "command": "/usr/bin/c++ -DCUDA_TOOLKIT_FOUND -I/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/include -isystem /home/user/librerias/opencv_final/include/opencv4 -O3 -DNDEBUG -std=c++17 -O3 -march=native -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/yolo_benchmark.dir/src/OutputParser.cpp.o -c /media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/OutputParser.cpp",
+  "file": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/OutputParser.cpp",
+  "output": "CMakeFiles/yolo_benchmark.dir/src/OutputParser.cpp.o"
+},
+{
+  "directory": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build",
+  "command": "/usr/bin/c++ -DCUDA_TOOLKIT_FOUND -I/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/include -isystem /home/user/librerias/opencv_final/include/opencv4 -O3 -DNDEBUG -std=c++17 -O3 -march=native -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/yolo_benchmark.dir/src/Benchmark.cpp.o -c /media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/Benchmark.cpp",
+  "file": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/Benchmark.cpp",
+  "output": "CMakeFiles/yolo_benchmark.dir/src/Benchmark.cpp.o"
+},
+{
+  "directory": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build",
+  "command": "/usr/bin/c++ -DCUDA_TOOLKIT_FOUND -I/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/include -isystem /home/user/librerias/opencv_final/include/opencv4 -O3 -DNDEBUG -std=c++17 -O3 -march=native -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/yolo_benchmark.dir/src/SystemMonitor.cpp.o -c /media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/SystemMonitor.cpp",
+  "file": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/SystemMonitor.cpp",
+  "output": "CMakeFiles/yolo_benchmark.dir/src/SystemMonitor.cpp.o"
+},
+{
+  "directory": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/build",
+  "command": "/usr/bin/c++ -DCUDA_TOOLKIT_FOUND -I/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/include -isystem /home/user/librerias/opencv_final/include/opencv4 -O3 -DNDEBUG -std=c++17 -O3 -march=native -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/yolo_benchmark.dir/src/Utils.cpp.o -c /media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/Utils.cpp",
+  "file": "/media/user/Respaldos/PRACTICAS/PRACTICA1B-DIEGOBRAVO/parte_1b_a_yolo_benchmark/src/Utils.cpp",
+  "output": "CMakeFiles/yolo_benchmark.dir/src/Utils.cpp.o"
+}
+]

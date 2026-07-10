@@ -1,0 +1,5 @@
+timestamp,device,model,input_video,input_width,input_height,imgsz,frames,average_fps,min_fps,max_fps,average_preprocess_ms,average_inference_ms,average_postprocess_ms,average_total_ms,peak_ram_mb,peak_vram_mb,total_detections,mac_address
+2026-07-10T01:10:30-0500,CPU,modelo/best.onnx,partido.mp4,1024,576,640,906,11.61,6.71,22.33,1.22,46.37,6.07,92.58,422,0,11312,d8:43:ae:3c:e9:35
+2026-07-10T01:14:42-0500,GPU CUDA FP32,modelo/best.onnx,partido.mp4,1024,576,640,1,62.36,62.36,62.36,4.53,10.94,0.40,16.04,624,1135,0,d8:43:ae:3c:e9:35
+2026-07-10T01:16:10-0500,GPU CUDA FP32,modelo/best.onnx,partido.mp4,1024,576,640,906,23.94,10.55,90.48,1.19,8.54,6.70,55.22,754,1236,11312,d8:43:ae:3c:e9:35
+2026-07-10T01:19:44-0500,GPU CUDA FP32,modelo/best.onnx,partido.mp4,1024,576,640,906,24.10,10.46,91.18,1.15,8.75,7.53,56.15,753,1165,11312,d8:43:ae:3c:e9:35

@@ -1,0 +1,457 @@
+[23:31:06] === yolo_benchmark started ===
+[23:31:06]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:31:06]   Source : videos/videoPrueba.mp4
+[23:31:06]   Device : cpu
+[23:31:06]   Output : 
+[23:31:07] === Hardware ===
+[23:31:07]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:31:07]   RAM      : 31573 MB
+[23:31:07]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:31:07]   VRAM     : 8188 MB
+[23:31:07]   Driver   : 595.71.05
+[23:31:07]   CUDA     : 13.2
+[23:31:07]   Temp     : 53°C
+[23:31:07]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:31:07]   MAC      : d8:43:ae:3c:e9:35
+[23:31:07]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:31:07] [INFO] Running 1 warmup frames...
+[23:31:07] [INFO] Skipped 1 warmup frames from video
+[23:31:07] [INFO] Starting benchmark loop...
+[23:31:08] === Benchmark complete ===
+[23:31:08]   Processed : 5 frames
+[23:31:08]   Avg FPS   : 11.35
+[23:31:08]   Throughput: 11.14 fps (wall)
+[23:31:14] === yolo_benchmark started ===
+[23:31:14]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:31:14]   Source : videos/videoPrueba.mp4
+[23:31:14]   Device : cuda
+[23:31:14]   Output : 
+[23:31:14] === Hardware ===
+[23:31:14]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:31:14]   RAM      : 31573 MB
+[23:31:14]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:31:14]   VRAM     : 8188 MB
+[23:31:14]   Driver   : 595.71.05
+[23:31:14]   CUDA     : 13.2
+[23:31:14]   Temp     : 53°C
+[23:31:14]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:31:14]   MAC      : d8:43:ae:3c:e9:35
+[23:31:14]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:31:14] [INFO] Running 3 warmup frames...
+[23:31:14] [INFO] Skipped 3 warmup frames from video
+[23:31:14] [INFO] Starting benchmark loop...
+[23:31:15] === Benchmark complete ===
+[23:31:15]   Processed : 5 frames
+[23:31:15]   Avg FPS   : 77.20
+[23:31:15]   Throughput: 70.16 fps (wall)
+[23:31:21] === yolo_benchmark started ===
+[23:31:21]   Model  : YOLOv26 (models/yolo26n.onnx)
+[23:31:21]   Source : videos/videoPrueba.mp4
+[23:31:21]   Device : cpu
+[23:31:21]   Output : 
+[23:31:21] === Hardware ===
+[23:31:21]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:31:21]   RAM      : 31573 MB
+[23:31:21]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:31:21]   VRAM     : 8188 MB
+[23:31:21]   Driver   : 595.71.05
+[23:31:21]   CUDA     : 13.2
+[23:31:21]   Temp     : 53°C
+[23:31:21]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:31:21]   MAC      : d8:43:ae:3c:e9:35
+[23:31:21]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:31:21] [INFO] Running 1 warmup frames...
+[23:31:21] [INFO] Skipped 1 warmup frames from video
+[23:31:21] [INFO] Starting benchmark loop...
+[23:31:22] === Benchmark complete ===
+[23:31:22]   Processed : 5 frames
+[23:31:22]   Avg FPS   : 16.37
+[23:31:22]   Throughput: 15.89 fps (wall)
+[23:31:35] === yolo_benchmark started ===
+[23:31:35]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:31:35]   Source : videos/videoPrueba.mp4
+[23:31:35]   Device : cuda
+[23:31:35]   Output : results/yolov12_gpu.mp4
+[23:31:35] === Hardware ===
+[23:31:35]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:31:35]   RAM      : 31573 MB
+[23:31:35]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:31:35]   VRAM     : 8188 MB
+[23:31:35]   Driver   : 595.71.05
+[23:31:35]   CUDA     : 13.2
+[23:31:35]   Temp     : 53°C
+[23:31:35]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:31:35]   MAC      : d8:43:ae:3c:e9:35
+[23:31:35]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:31:35] [INFO] Writing video to: results/yolov12_gpu.mp4
+[23:31:36] [INFO] Running 5 warmup frames...
+[23:31:36] [INFO] Skipped 5 warmup frames from video
+[23:31:36] [INFO] Starting benchmark loop...
+[23:31:37] === Benchmark complete ===
+[23:31:37]   Processed : 30 frames
+[23:31:37]   Avg FPS   : 95.78
+[23:31:37]   Throughput: 69.20 fps (wall)
+[23:35:04] === yolo_benchmark started ===
+[23:35:04]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:35:04]   Source : videos/videoPrueba.mp4
+[23:35:04]   Device : cuda
+[23:35:04]   Output : results/yolov12_gpu_demo.mp4
+[23:35:04] === Hardware ===
+[23:35:04]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:35:04]   RAM      : 31573 MB
+[23:35:04]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:35:04]   VRAM     : 8188 MB
+[23:35:04]   Driver   : 595.71.05
+[23:35:04]   CUDA     : 13.2
+[23:35:04]   Temp     : 52°C
+[23:35:04]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:35:04]   MAC      : d8:43:ae:3c:e9:35
+[23:35:04]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:35:04] [INFO] Writing video to: results/yolov12_gpu_demo.mp4
+[23:35:04] [INFO] Running 3 warmup frames...
+[23:35:05] [INFO] Skipped 3 warmup frames from video
+[23:35:05] [INFO] Starting benchmark loop...
+[23:35:05] === Benchmark complete ===
+[23:35:05]   Processed : 10 frames
+[23:35:05]   Avg FPS   : 91.65
+[23:35:05]   Throughput: 67.34 fps (wall)
+[23:39:12] === yolo_benchmark started ===
+[23:39:12]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:39:12]   Source : videos/videoPrueba.mp4
+[23:39:12]   Device : cpu
+[23:39:12]   Output : results/yolov12_cpu.mp4
+[23:39:12] === Hardware ===
+[23:39:12]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:39:12]   RAM      : 31573 MB
+[23:39:12]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:39:12]   VRAM     : 8188 MB
+[23:39:12]   Driver   : 595.71.05
+[23:39:12]   CUDA     : 13.2
+[23:39:12]   Temp     : 54°C
+[23:39:12]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:39:12]   MAC      : d8:43:ae:3c:e9:35
+[23:39:12]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:39:12] [INFO] Writing video to: results/yolov12_cpu.mp4
+[23:39:12] [INFO] Running 20 warmup frames...
+[23:39:14] [INFO] Skipped 20 warmup frames from video
+[23:39:14] [INFO] Starting benchmark loop...
+[23:39:22] [INFO] Frame 100  infer=67.66 ms  total=69.01 ms  fps=14.5  wall=8s
+[23:39:29] [INFO] Frame 200  infer=66.66 ms  total=68.18 ms  fps=14.7  wall=15s
+[23:39:37] [INFO] Frame 300  infer=67.96 ms  total=69.47 ms  fps=14.4  wall=23s
+[23:39:40] === Benchmark complete ===
+[23:39:40]   Processed : 338 frames
+[23:39:40]   Avg FPS   : 13.74
+[23:39:40]   Throughput: 12.96 fps (wall)
+[23:41:12] === yolo_benchmark started ===
+[23:41:12]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:41:12]   Source : videos/videoPrueba.mp4
+[23:41:12]   Device : cuda
+[23:41:12]   Output : results/yolov12_gpu.mp4
+[23:41:12] === Hardware ===
+[23:41:12]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:41:12]   RAM      : 31573 MB
+[23:41:12]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:41:12]   VRAM     : 8188 MB
+[23:41:12]   Driver   : 595.71.05
+[23:41:12]   CUDA     : 13.2
+[23:41:12]   Temp     : 50°C
+[23:41:12]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:41:12]   MAC      : d8:43:ae:3c:e9:35
+[23:41:12]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:41:12] [INFO] Writing video to: results/yolov12_gpu.mp4
+[23:41:12] [INFO] Running 20 warmup frames...
+[23:41:13] [INFO] Skipped 20 warmup frames from video
+[23:41:13] [INFO] Starting benchmark loop...
+[23:41:15] [INFO] Frame 100  infer=7.75 ms  total=9.38 ms  fps=106.6  wall=2s
+[23:41:16] [INFO] Frame 200  infer=7.67 ms  total=9.34 ms  fps=107.0  wall=3s
+[23:41:18] [INFO] Frame 300  infer=7.53 ms  total=8.93 ms  fps=111.9  wall=5s
+[23:41:19] === Benchmark complete ===
+[23:41:19]   Processed : 338 frames
+[23:41:19]   Avg FPS   : 109.33
+[23:41:19]   Throughput: 62.60 fps (wall)
+[23:42:12] === yolo_benchmark started ===
+[23:42:12]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:42:12]   Source : videos/videoPrueba.mp4
+[23:42:12]   Device : cpu
+[23:42:12]   Output : results/yolov12_cpu.mp4
+[23:42:13] === Hardware ===
+[23:42:13]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:42:13]   RAM      : 31573 MB
+[23:42:13]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:42:13]   VRAM     : 8188 MB
+[23:42:13]   Driver   : 595.71.05
+[23:42:13]   CUDA     : 13.2
+[23:42:13]   Temp     : 52°C
+[23:42:13]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:42:13]   MAC      : d8:43:ae:3c:e9:35
+[23:42:13]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:42:13] [INFO] Writing video to: results/yolov12_cpu.mp4
+[23:42:13] [INFO] Running 20 warmup frames...
+[23:42:14] [INFO] Skipped 20 warmup frames from video
+[23:42:14] [INFO] Starting benchmark loop...
+[23:42:22] [INFO] Frame 100  infer=72.41 ms  total=73.86 ms  fps=13.5  wall=8s
+[23:42:25] === Benchmark complete ===
+[23:42:25]   Processed : 132 frames
+[23:42:25]   Avg FPS   : 14.22
+[23:42:25]   Throughput: 12.77 fps (wall)
+[23:44:12] === yolo_benchmark started ===
+[23:44:12]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:44:12]   Source : videos/videoPrueba.mp4
+[23:44:12]   Device : cpu
+[23:44:12]   Output : results/yolov12_cpu.mp4
+[23:44:12] === Hardware ===
+[23:44:12]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:44:12]   RAM      : 31573 MB
+[23:44:12]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:44:12]   VRAM     : 8188 MB
+[23:44:12]   Driver   : 595.71.05
+[23:44:12]   CUDA     : 13.2
+[23:44:12]   Temp     : 49°C
+[23:44:12]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:44:12]   MAC      : d8:43:ae:3c:e9:35
+[23:44:12]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:44:12] [INFO] Writing video to: results/yolov12_cpu.mp4
+[23:44:12] [INFO] Running 20 warmup frames...
+[23:44:13] [INFO] Skipped 20 warmup frames from video
+[23:44:13] [INFO] Starting benchmark loop...
+[23:44:22] [INFO] Frame 100  infer=69.91 ms  total=71.34 ms  fps=14.0  wall=8s
+[23:44:29] [INFO] Frame 200  infer=68.39 ms  total=70.34 ms  fps=14.2  wall=15s
+[23:44:37] [INFO] Frame 300  infer=74.26 ms  total=75.68 ms  fps=13.2  wall=23s
+[23:44:42] === Benchmark complete ===
+[23:44:42]   Processed : 338 frames
+[23:44:42]   Avg FPS   : 14.33
+[23:44:42]   Throughput: 12.91 fps (wall)
+[23:50:03] === yolo_benchmark started ===
+[23:50:03]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:50:03]   Source : videos/videoPrueba.mp4
+[23:50:03]   Device : cpu
+[23:50:03]   Output : results/yolov12_cpu.mp4
+[23:50:03] === Hardware ===
+[23:50:03]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:50:03]   RAM      : 31573 MB
+[23:50:03]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:50:03]   VRAM     : 8188 MB
+[23:50:03]   Driver   : 595.71.05
+[23:50:03]   CUDA     : 13.2
+[23:50:03]   Temp     : 53°C
+[23:50:03]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:50:03]   MAC      : d8:43:ae:3c:e9:35
+[23:50:03]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:50:03] [INFO] Writing video to: results/yolov12_cpu.mp4
+[23:50:03] [INFO] Running 20 warmup frames...
+[23:50:05] [INFO] Skipped 20 warmup frames from video
+[23:50:05] [INFO] Starting benchmark loop...
+[23:50:13] [INFO] Frame 100  infer=76.03 ms  total=77.79 ms  fps=12.9  wall=8s
+[23:50:21] [INFO] Frame 200  infer=67.95 ms  total=69.94 ms  fps=14.3  wall=16s
+[23:50:29] [INFO] Frame 300  infer=61.96 ms  total=63.39 ms  fps=15.8  wall=24s
+[23:50:33] === Benchmark complete ===
+[23:50:33]   Processed : 338 frames
+[23:50:33]   Avg FPS   : 14.22
+[23:50:33]   Throughput: 12.72 fps (wall)
+[23:56:26] === yolo_benchmark started ===
+[23:56:26]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:56:26]   Source : videos/videoPrueba.mp4
+[23:56:26]   Device : cpu
+[23:56:26]   Output : results/yolov12_cpu.mp4
+[23:56:26] === Hardware ===
+[23:56:26]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:56:26]   RAM      : 31573 MB
+[23:56:26]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:56:26]   VRAM     : 8188 MB
+[23:56:26]   Driver   : 595.71.05
+[23:56:26]   CUDA     : 13.2
+[23:56:26]   Temp     : 49°C
+[23:56:26]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:56:26]   MAC      : d8:43:ae:3c:e9:35
+[23:56:26]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:56:26] [INFO] Writing video to: results/yolov12_cpu.mp4
+[23:56:26] [INFO] Running 20 warmup frames...
+[23:56:27] [INFO] Skipped 20 warmup frames from video
+[23:56:27] [INFO] Starting benchmark loop...
+[23:56:36] [INFO] Frame 100  infer=65.36 ms  total=66.94 ms  fps=14.9  wall=8s
+[23:56:44] [INFO] Frame 200  infer=70.94 ms  total=72.28 ms  fps=13.8  wall=16s
+[23:56:51] [INFO] Frame 300  infer=65.89 ms  total=67.23 ms  fps=14.9  wall=24s
+[23:56:56] === Benchmark complete ===
+[23:56:56]   Processed : 338 frames
+[23:56:56]   Avg FPS   : 14.18
+[23:56:56]   Throughput: 12.78 fps (wall)
+[23:58:15] === yolo_benchmark started ===
+[23:58:15]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:58:15]   Source : videos/videoPrueba.mp4
+[23:58:15]   Device : cpu
+[23:58:15]   Output : results/yolov12_cpu.mp4
+[23:58:16] === Hardware ===
+[23:58:16]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:58:16]   RAM      : 31573 MB
+[23:58:16]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:58:16]   VRAM     : 8188 MB
+[23:58:16]   Driver   : 595.71.05
+[23:58:16]   CUDA     : 13.2
+[23:58:16]   Temp     : 48°C
+[23:58:16]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:58:16]   MAC      : d8:43:ae:3c:e9:35
+[23:58:16]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:58:16] [INFO] Writing video to: results/yolov12_cpu.mp4
+[23:58:16] [INFO] Running 20 warmup frames...
+[23:58:17] [INFO] Skipped 20 warmup frames from video
+[23:58:17] [INFO] Starting benchmark loop...
+[23:58:25] [INFO] Frame 100  infer=60.49 ms  total=61.83 ms  fps=16.2  wall=7s
+[23:58:33] [INFO] Frame 200  infer=75.07 ms  total=76.39 ms  fps=13.1  wall=15s
+[23:58:41] [INFO] Frame 300  infer=64.35 ms  total=66.26 ms  fps=15.1  wall=23s
+[23:58:45] === Benchmark complete ===
+[23:58:45]   Processed : 338 frames
+[23:58:45]   Avg FPS   : 14.52
+[23:58:45]   Throughput: 13.01 fps (wall)
+[23:59:34] === yolo_benchmark started ===
+[23:59:34]   Model  : YOLOv12 (models/yolo12n.onnx)
+[23:59:34]   Source : videos/videoPrueba.mp4
+[23:59:34]   Device : cuda
+[23:59:34]   Output : results/yolov12_gpu.mp4
+[23:59:34] === Hardware ===
+[23:59:34]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[23:59:34]   RAM      : 31573 MB
+[23:59:34]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[23:59:34]   VRAM     : 8188 MB
+[23:59:34]   Driver   : 595.71.05
+[23:59:34]   CUDA     : 13.2
+[23:59:34]   Temp     : 51°C
+[23:59:34]   OpenCV   : 4.11.0 (CUDA enabled)
+[23:59:34]   MAC      : d8:43:ae:3c:e9:35
+[23:59:34]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[23:59:34] [INFO] Writing video to: results/yolov12_gpu.mp4
+[23:59:34] [INFO] Running 20 warmup frames...
+[23:59:34] [INFO] Skipped 20 warmup frames from video
+[23:59:34] [INFO] Starting benchmark loop...
+[23:59:37] [INFO] Frame 100  infer=7.76 ms  total=9.30 ms  fps=107.6  wall=2s
+[23:59:39] [INFO] Frame 200  infer=7.71 ms  total=9.21 ms  fps=108.6  wall=3s
+[23:59:40] [INFO] Frame 300  infer=7.49 ms  total=9.02 ms  fps=110.8  wall=5s
+[23:59:42] === Benchmark complete ===
+[23:59:42]   Processed : 338 frames
+[23:59:42]   Avg FPS   : 107.45
+[23:59:42]   Throughput: 58.26 fps (wall)
+[00:00:36] === yolo_benchmark started ===
+[00:00:36]   Model  : YOLOv26 (models/yolo26n.onnx)
+[00:00:36]   Source : videos/videoPrueba.mp4
+[00:00:36]   Device : cpu
+[00:00:36]   Output : results/yolov26_cpu.mp4
+[00:00:36] === Hardware ===
+[00:00:36]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[00:00:36]   RAM      : 31573 MB
+[00:00:36]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[00:00:36]   VRAM     : 8188 MB
+[00:00:36]   Driver   : 595.71.05
+[00:00:36]   CUDA     : 13.2
+[00:00:36]   Temp     : 51°C
+[00:00:36]   OpenCV   : 4.11.0 (CUDA enabled)
+[00:00:36]   MAC      : d8:43:ae:3c:e9:35
+[00:00:36]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[00:00:36] [INFO] Writing video to: results/yolov26_cpu.mp4
+[00:00:36] [INFO] Running 20 warmup frames...
+[00:00:37] [INFO] Skipped 20 warmup frames from video
+[00:00:37] [INFO] Starting benchmark loop...
+[00:00:43] [INFO] Frame 100  infer=45.77 ms  total=47.29 ms  fps=21.1  wall=5s
+[00:00:48] [INFO] Frame 200  infer=46.28 ms  total=47.12 ms  fps=21.2  wall=11s
+[00:00:54] [INFO] Frame 300  infer=42.32 ms  total=43.23 ms  fps=23.1  wall=16s
+[00:00:58] === Benchmark complete ===
+[00:00:58]   Processed : 338 frames
+[00:00:58]   Avg FPS   : 22.32
+[00:00:58]   Throughput: 18.95 fps (wall)
+[00:01:02] === yolo_benchmark started ===
+[00:01:02]   Model  : YOLOv26 (models/yolo26n.onnx)
+[00:01:02]   Source : videos/videoPrueba.mp4
+[00:01:02]   Device : cuda
+[00:01:02]   Output : results/yolov26_gpu.mp4
+[00:01:02] === Hardware ===
+[00:01:02]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[00:01:02]   RAM      : 31573 MB
+[00:01:02]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[00:01:02]   VRAM     : 8188 MB
+[00:01:02]   Driver   : 595.71.05
+[00:01:02]   CUDA     : 13.2
+[00:01:02]   Temp     : 55°C
+[00:01:02]   OpenCV   : 4.11.0 (CUDA enabled)
+[00:01:02]   MAC      : d8:43:ae:3c:e9:35
+[00:01:02]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[00:01:02] [INFO] Writing video to: results/yolov26_gpu.mp4
+[00:01:03] [INFO] Running 20 warmup frames...
+[00:04:58] === yolo_benchmark started ===
+[00:04:58]   Model  : YOLOv26 (models/yolo26n.onnx)
+[00:04:58]   Source : videos/videoPrueba.mp4
+[00:04:58]   Device : cuda
+[00:04:58]   Output : results/yolov26_gpu.mp4
+[00:04:58] === Hardware ===
+[00:04:58]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[00:04:58]   RAM      : 31573 MB
+[00:04:58]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[00:04:58]   VRAM     : 8188 MB
+[00:04:58]   Driver   : 595.71.05
+[00:04:58]   CUDA     : 13.2
+[00:04:58]   Temp     : 50°C
+[00:04:58]   OpenCV   : 4.11.0 (CUDA enabled)
+[00:04:58]   MAC      : d8:43:ae:3c:e9:35
+[00:04:58]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[00:04:58] [INFO] Writing video to: results/yolov26_gpu.mp4
+[00:04:58] [INFO] Running 20 warmup frames...
+[00:04:59] [INFO] Skipped 20 warmup frames from video
+[00:04:59] [INFO] Starting benchmark loop...
+[00:05:01] [INFO] Frame 100  infer=8.04 ms  total=8.99 ms  fps=111.2  wall=2s
+[00:05:03] [INFO] Frame 200  infer=7.41 ms  total=8.31 ms  fps=120.3  wall=3s
+[00:05:04] [INFO] Frame 300  infer=7.25 ms  total=9.01 ms  fps=110.9  wall=5s
+[00:05:07] === Benchmark complete ===
+[00:05:07]   Processed : 338 frames
+[00:05:07]   Avg FPS   : 115.06
+[00:05:07]   Throughput: 64.29 fps (wall)
+[00:10:47] === yolo_benchmark started ===
+[00:10:47]   Model  : YOLOv26 (models/yolo26n.onnx)
+[00:10:47]   Source : videos/videoPrueba.mp4
+[00:10:47]   Device : cpu
+[00:10:47]   Output : results/yolov26_cpu.mp4
+[00:10:47] === Hardware ===
+[00:10:47]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[00:10:47]   RAM      : 31573 MB
+[00:10:47]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[00:10:47]   VRAM     : 8188 MB
+[00:10:47]   Driver   : 595.71.05
+[00:10:47]   CUDA     : 13.2
+[00:10:47]   Temp     : 51°C
+[00:10:47]   OpenCV   : 4.11.0 (CUDA enabled)
+[00:10:47]   MAC      : d8:43:ae:3c:e9:35
+[00:10:47]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[00:10:47] [INFO] Writing video to: results/yolov26_cpu.mp4
+[00:10:47] [INFO] Running 20 warmup frames...
+[00:10:48] [INFO] Skipped 20 warmup frames from video
+[00:10:48] [INFO] Starting benchmark loop...
+[00:10:53] [INFO] Frame 100  infer=31.86 ms  total=33.27 ms  fps=30.1  wall=4s
+[00:10:58] [INFO] Frame 200  infer=38.02 ms  total=39.49 ms  fps=25.3  wall=9s
+[00:11:02] [INFO] Frame 300  infer=37.39 ms  total=38.87 ms  fps=25.7  wall=14s
+[00:11:05] === Benchmark complete ===
+[00:11:05]   Processed : 338 frames
+[00:11:05]   Avg FPS   : 26.81
+[00:11:05]   Throughput: 22.13 fps (wall)
+[00:11:10] === yolo_benchmark started ===
+[00:11:10]   Model  : YOLOv26 (models/yolo26n.onnx)
+[00:11:10]   Source : videos/videoPrueba.mp4
+[00:11:10]   Device : cuda
+[00:11:10]   Output : results/yolov26_gpu.mp4
+[00:11:10] === Hardware ===
+[00:11:10]   CPU      : Intel(R) Core(TM) Ultra 9 185H (22 cores)
+[00:11:10]   RAM      : 31573 MB
+[00:11:10]   GPU      : NVIDIA GeForce RTX 4070 Laptop GPU
+[00:11:10]   VRAM     : 8188 MB
+[00:11:10]   Driver   : 595.71.05
+[00:11:10]   CUDA     : 13.2
+[00:11:10]   Temp     : 55°C
+[00:11:10]   OpenCV   : 4.11.0 (CUDA enabled)
+[00:11:10]   MAC      : d8:43:ae:3c:e9:35
+[00:11:10]   Video  : 576x1024 @ 30.00 FPS, 358 frames
+[00:11:10] [INFO] Writing video to: results/yolov26_gpu.mp4
+[00:11:10] [INFO] Running 20 warmup frames...
+[00:11:11] [INFO] Skipped 20 warmup frames from video
+[00:11:11] [INFO] Starting benchmark loop...
+[00:11:13] [INFO] Frame 100  infer=6.24 ms  total=7.65 ms  fps=130.8  wall=1s
+[00:11:14] [INFO] Frame 200  infer=5.43 ms  total=6.97 ms  fps=143.5  wall=3s
+[00:11:16] [INFO] Frame 300  infer=5.72 ms  total=7.18 ms  fps=139.3  wall=4s
+[00:11:18] === Benchmark complete ===
+[00:11:18]   Processed : 338 frames
+[00:11:18]   Avg FPS   : 130.75
+[00:11:18]   Throughput: 67.43 fps (wall)
