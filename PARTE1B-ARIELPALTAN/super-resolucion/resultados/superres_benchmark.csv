@@ -1,8 +1,0 @@
-timestamp,model,device,tile,tile_pad,input_width,input_height,output_width,output_height,frames,average_fps,average_inference_ms,average_total_ms,peak_ram_mb,peak_vram_mb,mac_address
-2026-07-17T21:56:43,realesr-general-x4v3,CPU,128,10,480,270,1920,1080,37,0.99,992.07,1014.64,299,0,34:5a:60:20:a2:ad
-2026-07-17T21:57:01,realesr-general-x4v3,GPU CUDA FP16,128,10,480,270,1920,1080,185,18.46,32.29,55.49,484,254,34:5a:60:20:a2:ad
-2026-07-17T22:10:50,realesr-general-x4v3,GPU CUDA FP16,128,10,480,270,1920,1080,142,15.66,34.79,65.56,485,491,34:5a:60:20:a2:ad
-2026-07-18T13:03:25,realesr-general-x4v3,CPU,128,10,480,270,1920,1080,52,1.23,795.91,816.53,299,0,34:5a:60:20:a2:ad
-2026-07-18T13:04:33,realesr-general-x4v3,GPU CUDA FP16,128,10,480,270,1920,1080,822,18.69,32.13,55.33,486,421,34:5a:60:20:a2:ad
-2026-07-18T13:44:49,realesr-general-x4v3,GPU CUDA FP16,128,10,480,270,1920,1080,702,20.23,30.33,49.87,486,254,34:5a:60:20:a2:ad
-2026-07-18T13:45:24,realesr-general-x4v3,CPU,128,10,480,270,1920,1080,37,1.26,774.13,793.62,299,0,34:5a:60:20:a2:ad
